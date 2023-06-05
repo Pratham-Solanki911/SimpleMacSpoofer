@@ -18,14 +18,12 @@ To use this script, you need the following:
 
 ```
 git clone https://github.com/Pratham-Solanki911/SimpleMacSpoofer.git
-
+```
 2. Make sure you have the necessary permissions to execute the script.
 
 ```
 chmod +x simplespoofer.py
 ```
-
-\```
 
 PLEASE NOTE:	Modify the simplespoofer.py script by replacing the variables interface with your desired network interface and new_mac with the MAC address you want to change into.
 ## Usage
