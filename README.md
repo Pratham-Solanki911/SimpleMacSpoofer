@@ -14,7 +14,7 @@ To use this script, you need the following:
 
 ## Installation
 
-1. Clone this repository or download the script `mac_change.py` to your local machine.
+1. Clone this repository or download the script `simplespoofer.py` to your local machine.
 
 ```
 git clone https://github.com/Pratham-Solanki911/SimpleMacSpoofer.git
