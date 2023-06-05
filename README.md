@@ -36,9 +36,3 @@ PLEASE NOTE:	Modify the simplespoofer.py script by replacing the variables inter
 sudo python simplespoofer.py
 ```
 
-3. The script will prompt you to select the network interface for which you want to change the MAC address. Enter the appropriate number corresponding to the desired interface.
-
-4. Next, enter the new MAC address you want to assign to the selected interface. The MAC address should be in the format `XX:XX:XX:XX:XX:XX`, where `X` represents a hexadecimal digit.
-
-5. The script will attempt to change the MAC address of the specified network interface. If successful, it will display a success message. If any error occurs, it will provide an error message.
-
